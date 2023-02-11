@@ -1,4 +1,4 @@
-# Sprint Challenge: Kullanıcı Arayüzü and Responsive Tasarım
+# Sprint Challenge: Kullanıcı Arayüzü and Responsive Tasarım 
 ​
 Bu Challenge, bu sprint'te öğrenilen kavram ve teknikleri uygulamanıza ve bunları gerçekçi bir projede (bir restoran için statik bir site) uygulamanıza olanak tanır. Bu Sprint boyunca, Semantik HTML, CSS stilleme, CSS Flexbox Modül, ve Responsive tasarımlarla uğraştın. Bu mücadelede çok sayfalı bir sitenin HTML etiketlerini ekleyip bir takım CSS stilleri eklemen gerekmektedir. Ayrıca kendin yeni bir sayfa daha oluşturup menü içerisinden link vermen gerekmektedir.
 ​
